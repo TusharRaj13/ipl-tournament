@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ipl-tournament/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ipl-tournament/static/js/main.a8dfb7c7.chunk.js",
+    "main.js.map": "/ipl-tournament/static/js/main.a8dfb7c7.chunk.js.map",
+    "runtime-main.js": "/ipl-tournament/static/js/runtime-main.e116d570.js",
+    "runtime-main.js.map": "/ipl-tournament/static/js/runtime-main.e116d570.js.map",
+    "static/js/2.2755283a.chunk.js": "/ipl-tournament/static/js/2.2755283a.chunk.js",
+    "static/js/2.2755283a.chunk.js.map": "/ipl-tournament/static/js/2.2755283a.chunk.js.map",
+    "static/js/3.aa03dae9.chunk.js": "/ipl-tournament/static/js/3.aa03dae9.chunk.js",
+    "static/js/3.aa03dae9.chunk.js.map": "/ipl-tournament/static/js/3.aa03dae9.chunk.js.map",
+    "index.html": "/ipl-tournament/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ipl-tournament/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2755283a.chunk.js.LICENSE.txt": "/ipl-tournament/static/js/2.2755283a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ipl-tournament/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e116d570.js",
+    "static/js/2.2755283a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a8dfb7c7.chunk.js"
+  ]
+}
