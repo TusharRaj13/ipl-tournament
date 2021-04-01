@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/ipl-tournament/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ipl-tournament/static/js/main.79758a59.chunk.js",
-    "main.js.map": "/ipl-tournament/static/js/main.79758a59.chunk.js.map",
-    "runtime-main.js": "/ipl-tournament/static/js/runtime-main.4c795427.js",
-    "runtime-main.js.map": "/ipl-tournament/static/js/runtime-main.4c795427.js.map",
-    "static/js/2.3bd4bd91.chunk.js": "/ipl-tournament/static/js/2.3bd4bd91.chunk.js",
-    "static/js/2.3bd4bd91.chunk.js.map": "/ipl-tournament/static/js/2.3bd4bd91.chunk.js.map",
-    "static/js/3.4ad6879b.chunk.js": "/ipl-tournament/static/js/3.4ad6879b.chunk.js",
-    "static/js/3.4ad6879b.chunk.js.map": "/ipl-tournament/static/js/3.4ad6879b.chunk.js.map",
+    "main.css": "/ipl-tournament/static/css/main.b15408bc.chunk.css",
+    "main.js": "/ipl-tournament/static/js/main.d2e5ca61.chunk.js",
+    "main.js.map": "/ipl-tournament/static/js/main.d2e5ca61.chunk.js.map",
+    "runtime-main.js": "/ipl-tournament/static/js/runtime-main.caab80da.js",
+    "runtime-main.js.map": "/ipl-tournament/static/js/runtime-main.caab80da.js.map",
+    "static/js/2.a029394d.chunk.js": "/ipl-tournament/static/js/2.a029394d.chunk.js",
+    "static/js/2.a029394d.chunk.js.map": "/ipl-tournament/static/js/2.a029394d.chunk.js.map",
+    "static/js/3.d695bc28.chunk.js": "/ipl-tournament/static/js/3.d695bc28.chunk.js",
+    "static/js/3.d695bc28.chunk.js.map": "/ipl-tournament/static/js/3.d695bc28.chunk.js.map",
     "index.html": "/ipl-tournament/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ipl-tournament/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.3bd4bd91.chunk.js.LICENSE.txt": "/ipl-tournament/static/js/2.3bd4bd91.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ipl-tournament/static/media/logo.6ce24c58.svg"
+    "static/css/main.b15408bc.chunk.css.map": "/ipl-tournament/static/css/main.b15408bc.chunk.css.map",
+    "static/js/2.a029394d.chunk.js.LICENSE.txt": "/ipl-tournament/static/js/2.a029394d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c795427.js",
-    "static/js/2.3bd4bd91.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.79758a59.chunk.js"
+    "static/js/runtime-main.caab80da.js",
+    "static/js/2.a029394d.chunk.js",
+    "static/css/main.b15408bc.chunk.css",
+    "static/js/main.d2e5ca61.chunk.js"
   ]
 }
